@@ -21,5 +21,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           rootDirectory: './docs'
-          baseUrl: '/tp' # assuming your repo name is tp
+          baseUrl: '/team-repo' # assuming your repo name is tp
           version: '^6.0.2'
