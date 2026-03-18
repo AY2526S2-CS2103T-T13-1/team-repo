@@ -69,8 +69,9 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
-        "tagging-a-person": "Tagging a person",
+        "deleting-an-employee": "Deleting an employee",
+        "tagging-an-employee": "Tagging an employee",
+        "searching-for-employees": "Searching for employees",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
