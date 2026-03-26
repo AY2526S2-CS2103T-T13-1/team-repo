@@ -67,6 +67,7 @@
         "use-case-5-uc5-tag-an-employee": "Use case 5 (UC5): Tag an employee",
         "use-case-6-uc6-edit-an-employee-s-details": "Use case 6 (UC6): Edit an employee's details",
         "use-case-7-uc7-cycle-through-previous-executed-commands": "Use case 7 (UC7): Cycle through previous executed commands",
+        "use-case-8-uc8-exporting-current-employee-data": "Use case 8 (UC8): Exporting current employee data",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
@@ -76,6 +77,7 @@
         "tagging-an-employee": "Tagging an employee",
         "searching-for-employees": "Searching for employees",
         "editing-an-employee": "Editing an employee",
+        "exporting-employee-list": "Exporting employee list",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -130,6 +132,7 @@
         "editing-an-employee-edit": "Editing an employee : edit",
         "searching-employees-by-name-search": "Searching employees by name: search",
         "deleting-an-employee-delete": "Deleting an employee : delete",
+        "export-employee-data-export": "Export employee data : export",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "viewing-statistics-stats": "Viewing statistics: stats",
