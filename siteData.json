@@ -123,8 +123,11 @@
       "title": "User Guide",
       "headings": {
         "hrmanager-user-guide": "HRmanager User Guide",
-        "quick-start": "Quick start",
+        "looking-to-get-started": "Looking to get started?",
         "features": "Features",
+        "other-sections": "Other sections",
+        "quick-start": "Quick start",
+        "features-2": "Features",
         "viewing-help-help": "Viewing help : help",
         "listing-all-employees-list": "Listing all employees : list",
         "adding-an-employee-add": "Adding an employee: add",
@@ -138,6 +141,7 @@
         "import-export-employee-data-import-or-export": "Import/Export employee data : import or export",
         "exiting-the-program-exit": "Exiting the program : exit",
         "other-features": "Other features",
+        "confirmation-prompts": "Confirmation Prompts",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
@@ -150,7 +154,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "hrmanager": "HRmanager"
       },
       "headingKeywords": {}
     },
