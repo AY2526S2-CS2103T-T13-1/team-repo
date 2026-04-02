@@ -131,7 +131,7 @@
         "viewing-help-help": "Viewing help : help",
         "listing-all-employees-list": "Listing all employees : list",
         "adding-an-employee-add": "Adding an employee: add",
-        "parameter-details-for-each-field": "Parameter details for each field:",
+        "parameter-restrictions-for-each-field": "Parameter restrictions for each field:",
         "searching-employees-by-name-search": "Searching employees by name: search",
         "viewing-statistics-stat": "Viewing statistics: stat",
         "cycle-through-previous-executed-commands": "Cycle through previous executed commands",
