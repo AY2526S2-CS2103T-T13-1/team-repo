@@ -133,7 +133,7 @@
         "adding-an-employee-add": "Adding an employee : add",
         "parameter-restrictions-for-each-field": "Parameter restrictions for each field:",
         "searching-for-an-employee-search": "Searching for an employee : search",
-        "viewing-statistics-stat": "Viewing statistics: stat",
+        "switching-the-statistics-dashboard-mode-stat": "Switching the statistics dashboard mode: stat",
         "cycle-through-previous-executed-commands": "Cycle through previous executed commands",
         "editing-an-employee-edit": "Editing an employee : edit",
         "deleting-an-employee-delete": "Deleting an employee : delete",
